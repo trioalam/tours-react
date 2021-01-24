@@ -1,2 +1,1 @@
-# tours-react
-Basic react project using useState and useEffect. 
+## React Projects Starter APP
